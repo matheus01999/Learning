@@ -1,0 +1,24 @@
+Step1
+
+
+-Git .versionamento de Codigo
+
+-Javascript .linguagem Base
+
+-Node.JS .banco de Dados
+-AWS .desenvolvimento em Nuvem
+
+-Vue.JS .framework
+-React .framework
+-React Native .desenvolvimento Mobile
+
+Step2 
+
+Padrões de Projetos
+
+
+Step3 
+
+Publicação
+
+
